@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Data from "./Data";
 import Main from "./components/Main";
+import BusinessCard from "./components/BusinessCard";
 
 function App() {
   const { name } = Data();
