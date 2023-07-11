@@ -1,0 +1,181 @@
+.business-card-list {
+  padding: 20px;
+}
+
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.contact-name {
+  font-weight: bold;
+}
+
+.search-and-sort {
+  margin-bottom: 20px;
+}
+
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.contact-name {
+  font-weight: bold;
+}
+.business-card-list {
+  padding: 20px;
+}
+
+.search-and-sort {
+  margin-bottom: 20px;
+}
+
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.contact-item.active {
+  background-color: #e6e6e6;
+}
+
+.contact-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.contact-name {
+  font-weight: bold;
+}
+
+.business-card-detailed {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.business-card-detailed h2 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.business-card-detailed p {
+  margin: 5px 0;
+}
+
+.business-card-detailed .contact-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.business-card-list {
+  padding: 20px;
+}
+
+.search-and-sort {
+  margin-bottom: 20px;
+}
+
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.contact-item.active {
+  background-color: #e6e6e6;
+}
+
+.contact-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.contact-name {
+  font-weight: bold;
+}
+
+.business-card-detailed {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.business-card-detailed h2 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.business-card-detailed p {
+  margin: 5px 0;
+}
+
+.business-card-detailed .contact-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.favorite-icon {
+  cursor: pointer;
+  margin-left: auto;
+  color: #ccc;
+  transition: color 0.3s ease-in-out;
+}
+
+.favorite-icon.favorite {
+  color: red;
+}
